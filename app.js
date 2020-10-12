@@ -3,6 +3,8 @@ const exhbs = require('express-handlebars');
 const products = require('./products.json');
 const portfolio = require('./portfolio.json');
 
+const PORT = process.env.PORT || 4444;
+
 const app = express();
 
 app.use(express.static('public'));
@@ -45,6 +47,6 @@ app.get('/product/:productId', (req, res) => {
     console.log(req.params);
 })
 
-app.listen(4444, () => {
+app.listen(PORT, () => {
     console.log(`Порт ${4444}`);
 });
