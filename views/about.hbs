@@ -1,0 +1,41 @@
+<body class="body">
+    {{> header}}
+    <main>
+        <section class="portfolio">
+            <div class="container">
+                <h1 class="visually-hidden">Портфолио</h1>
+                <ul class="filter">
+                    <li class="filter__item"><button class="filter__button" type="button">Все</button></li>
+                    <li class="filter__item"><button class="filter__button" type="button">Веб-сайты</button></li>
+                    <li class="filter__item"><button class="filter__button" type="button">Приложения</button></li>
+                    <li class="filter__item"><button class="filter__button" type="button">Дизайн</button></li>
+                    <li class="filter__item"><button class="filter__button" type="button">Маркетинг</button></li>
+                </ul>
+                <ul class="project-list">
+                    {{#each portfolio}}
+                    <li class="project-list__item">
+                        <a class="project-list__link" href="/project/{{id}}">
+                            <div class=" project-list__wrap">
+                                <picture>
+                                    <source srcset={{source-mobile}} media="(max-width:767px)">
+                                    <source srcset={{source-tablet}} media="(min-width:768px)">
+                                    <source srcset={{source-desktop}} media="(min-width:1200px)">
+                                    <img class="project-list__img" src={{source-image}} alt={{alt}}>
+                                </picture>
+                                <p class="project-list__descr"> {{description}}</p>
+                            </div>
+                            <div class="project-list__title--border ">
+                                <h2 class="project-list__title ">{{name}}</h2>
+                                <p class="project-list__type ">{{type}}</p>
+                            </div>
+                        </a>
+                    </li>
+                    {{/each}}
+                </ul>
+            </div>
+        </section>
+    </main>
+
+    {{> footer}}
+
+</body>

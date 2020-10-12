@@ -1,0 +1,109 @@
+[{
+        "id": "001",
+        "name": "Технокряк",
+        "type": "Веб-сайт",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_tehnokryak.jpg 1x, /images/mob_tehnokryak@2x.jpg 2x",
+        "source-tablet": "/images/tab_tehnokryak.jpg 1x, /images/tab_tehnokryak@2x.jpg 2x",
+        "source-desktop": "/images/tehnokryak.jpg 1x, /images/tehnokryak@2x.jpg 2x",
+        "source-image": "/images/mob_tehnokryak.jpg",
+        "alt": "Технокряк"
+
+    },
+    {
+        "id": "002",
+        "name": "Постер New Orlean vs Golden Star",
+        "type": "Дизайн",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_poster.jpg 1x, /images/mob_poster@2x.jpg 2x",
+        "source-tablet": "/images/tab_poster.jpg 1x, /images/tab_poster@2x.jpg 2x",
+        "source-desktop": "/images/poster.jpg 1x, /images/poster@2x.jpg 2x",
+        "source-image": "/images/mob_poster.jpg ",
+        "alt": "Постер New Orlean vs Golden Star"
+
+    },
+    {
+        "id": "003",
+        "name": "Ресторан Seafood",
+        "type": "Приложение",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_seafood.jpg 1x, /images/mob_seafood@2x.jpg 2x",
+        "source-tablet": "/images/tab_seafood.jpg 1x, /images/tab_seafood@2x.jpg 2x",
+        "source-desktop": "/images/seafood.jpg 1x, /images/seafood@2x.jpg 2x",
+        "source-image": "/images/mob_seafood.jpg ",
+        "alt": "Ресторан Seafood"
+
+    },
+    {
+        "id": "004",
+        "name": "Проект Prime",
+        "type": "Маркетинг",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_prime.jpg 1x, /images/mob_prime@2x.jpg 2x",
+        "source-tablet": "/images/tab_prime.jpg 1x, /images/tab_prime@2x.jpg 2x",
+        "source-desktop": "/images/prime.jpg 1x, /images/prime@2x.jpg 2x",
+        "source-image": "/images/mob_prime.jpg",
+        "alt": "Проект Prime"
+
+    },
+    {
+        "id": "005",
+        "name": "Проект Boxes",
+        "type": "Приложение",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_boxes.jpg 1x, /images/mob_boxes@2x.jpg 2x",
+        "source-tablet": "/images/tab_boxes.jpg 1x, /images/tab_boxes@2x.jpg 2x",
+        "source-desktop": "/images/boxes.jpg 1x, /images/boxes@2x.jpg 2x",
+        "source-image": "/images/mob_boxes.jpg",
+        "alt": "Проект Boxes"
+
+    },
+    {
+        "id": "006",
+        "name": "Inspiration has no Borders",
+        "type": "Веб-сайт",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_inspiration.jpg 1x, /images/mob_inspiration@2x.jpg 2x",
+        "source-tablet": "/images/tab_inspiration.jpg 1x, /images/tab_inspiration@2x.jpg 2x",
+        "source-desktop": "/images/inspiration.jpg 1x, /images/inspiration@2x.jpg 2x",
+        "source-image": "/images/mob_inspiration.jpg",
+        "alt": "Inspiration has no Borders"
+
+    },
+    {
+        "id": "007",
+        "name": "Издание Limited Edition",
+        "type": "Дизайн",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_limited_edition.jpg 1x, /images/mob_limited_edition@2x.jpg 2x",
+        "source-tablet": "/images/tab_limited_edition.jpg 1x, /images/tab_limited_edition@2x.jpg 2x",
+        "source-desktop": "/images/limited_edition.jpg 1x, /images/limited_edition@2x.jpg 2x",
+        "source-image": "/images/mob_limited_edition.jpg",
+        "alt": "Издание Limited Edition"
+
+    },
+    {
+        "id": "008",
+        "name": "Проект LAB",
+        "type": "Маркетинг",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_lab.jpg 1x, /images/mob_lab@2x.jpg 2x",
+        "source-tablet": "/images/tab_lab.jpg 1x, /images/tab_lab@2x.jpg 2x",
+        "source-desktop": "/images/lab.jpg 1x, /images/lab@2x.jpg 2x",
+        "source-image": "/images/mob_lab.jpg",
+        "alt": "Издание Limited Edition"
+
+    },
+    {
+        "id": "009",
+        "name": "Growing Business",
+        "type": "Приложеgrowing_busines",
+        "description": "Технокряк это современная площадка распространения коронавирусаКомпании используют эту платформу для цифрового шпионажа и атак на защищённые сервера конкурентов.",
+        "source-mobile": "/images/mob_growing_busines.jpg 1x, /images/mob_growing_busines@2x.jpg 2x",
+        "source-tablet": "/images/tab_growing_busines.jpg 1x, /images/tab_growing_busines@2x.jpg 2x",
+        "source-desktop": "/images/growing_busines.jpg 1x, /images/growing_busines@2x.jpg 2x",
+        "source-image": "/images/mob_growing_busines.jpg",
+        "alt": "Growing Business"
+
+    }
+]

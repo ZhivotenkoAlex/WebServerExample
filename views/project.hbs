@@ -1,0 +1,19 @@
+<div class="project-list__item project">
+    <div class="project-list__link">
+        <div class=" project-list__wrap">
+            <picture>
+                <source srcset="{{project.source-mobile}}" media="(max-width:767px)">
+                <source srcset="{{project.source-tablet}}" media="(min-width:768px)">
+                <source srcset="{{project.source-desktop}}" media="(min-width:1200px)">
+                <img class="project-list__img" src="{{project.source-image}}" alt={{project.alt}}>
+            </picture>
+            <p class="project__title"> {{project.description}}</p>
+        </div>
+        <div class="project-list__title--border ">
+            <h2 class="project-list__title ">{{project.name}}</h2>
+            <p class="project-list__type ">{{project.type}}</p>
+        </div>
+    </div>
+</div>
+
+<a href="/portfolio" class="project__link button">Вернуться к портфолио</a>
